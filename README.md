@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 abc
 adding new content to read me for diff
 
-##copyright notice
+##copyright noticenew line
